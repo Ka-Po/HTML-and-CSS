@@ -1,0 +1,24 @@
+#header {
+	background-image: url(pic/header.jpg);
+	background-repeat: no-repeat;
+	height: 129px;
+	width: 800px;
+	margin-Left:auto;
+	margin-Right:auto;
+}
+#content {
+	background-image: url(pic/content.jpg);
+	background-repeat: repeat-y;
+	width: 800px;
+	margin-Left:auto;
+	margin-Right:auto;
+
+}
+
+#contentL {
+	float: left;
+	width: 245px;
+}
+#contentR {
+	margin-left: 245px;
+}
