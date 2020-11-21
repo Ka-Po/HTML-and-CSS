@@ -8,4 +8,4 @@ This Code have Video Come form My Channel [HTML與CSS的經典樣式](https://ww
 另外，這裡的程式不包括圖片的部份，
 請自己加入圖片及存放圖片的檔案夾，
 
-而它們的名字及路徑，需要自行在程式中改動。
+而它們的名字及路徑，需要在程式中修改。
